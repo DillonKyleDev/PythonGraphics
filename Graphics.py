@@ -1,11 +1,8 @@
 from PIL import Image #
-
 import urllib.request
 import cv2
 import numpy as np
-
 import math
-
 from pynput.keyboard import Key, Listener
 
 
